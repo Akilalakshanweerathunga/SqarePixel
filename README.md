@@ -2,7 +2,7 @@ SquarePixel - Image Converter Tool
 Version: 1.0
 
 Developed by: SquareAsoft
-Contact: info@Website: https://squareasoft.com
+Contact: info@squareasoft.com
 Website: https://squareasoft.com
 
 Instructions:
